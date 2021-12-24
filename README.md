@@ -1,4 +1,4 @@
-![Euichan](https://user-images.githubusercontent.com/87972079/147319966-2498322a-a94f-4edf-b9fd-7ae9a2a57a08.jpg)
+![Euichan](https://user-images.githubusercontent.com/87972079/147320013-ce5b0f1b-e629-4f93-a340-a3dbf39ab4eb.jpg)
 
 
 
