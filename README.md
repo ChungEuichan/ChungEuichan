@@ -1,9 +1,6 @@
 <div align="center" dir="auto">
 
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=ChungEuichan&fontAlign=70&rotate=13&fontAlignY=25" />
-  
-  <hr>
-  </hr>
 
 <div align="center" dir="auto">
   <br>
