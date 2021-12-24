@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Eui%20chan&fontSize=90)
-
-
 <div align="center" dir="auto">
 
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Euichan&fontAlign=70&rotate=13&fontAlignY=25" />
+  
   <hr>
   </hr>
 
