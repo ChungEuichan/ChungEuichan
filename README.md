@@ -44,18 +44,10 @@
 <hr>
 </hr>
 
-<table>
-   <thead>
-     <tr>
-      <th>
 
 ![ChungEuichan's github stats](https://github-readme-stats.vercel.app/api?username=ChungEuichan&show_icons=true)
-[![ChungEuichan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChungEuichanID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ChungEuichan)
-        
-      </th>
-    </tr>
-   </thead>
-  </table>
+![ChungEuichan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChungEuichanID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ChungEuichan)
+
 </div>
 </div>
 
