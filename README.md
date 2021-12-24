@@ -13,6 +13,7 @@
   <br>
   
   <b>
+   <g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.guthubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji>
    Skills
   <br>
   <br>
@@ -26,7 +27,7 @@
   <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp;
   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
 
-   ME
+  😄 ME
     
   <a href="https://cut-silicon-1bf.notion.site/ChungEuichan-90b25f74a6b74526a7431dd48f7676dc" rel="nofollow">
  <img src="https://camo.githubusercontent.com/72849c1323856929fec7c69ac27de21e4ff7f2346856d94f752465467e21be62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d4443333832443f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465" width="80px" height="26px/" data-canonical-src="https://img.shields.io/badge/Notion-DC382D?style-flat-square&logo=Notion&logoColor=white" style="max-width:100%;"></a>
