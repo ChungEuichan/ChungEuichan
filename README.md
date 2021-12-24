@@ -23,7 +23,7 @@
 
   😄 ME
     
-  <a href="https://cut-silicon-1bf.notion.site/ChungEuichan-d74d21be45bc4d09bfdde294844b9726" rel="nofollow">
+  <a href="https://www.notion.so/ChungEuichan-d74d21be45bc4d09bfdde294844b9726" rel="nofollow">
  <img src="https://camo.githubusercontent.com/e158f16f83ef939b73ab4bdc3cd85221891c16a39e171406c4f8db9311fce7ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465" width="80px" height="26px/" data-canonical-src="https://img.shields.io/badge/Notion-000000?style-flat-square&logo=Notion&logoColor=white" style="max-width:100%;"></a>
 
   <a href="mailto:jec5235@gmail.com">
