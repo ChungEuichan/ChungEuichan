@@ -29,7 +29,9 @@
    ME
   
   <a href="https://instagram.com/jec523_"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  
+  <a href="https://cut-silicon-1bf.notion.site/ChungEuichan-eb13e5073e3841f29c63feeed5629543" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/72849c1......61742d7..." width="80px" height="26px/" data-canonical-src="https://img.shields.io/badge/Notion-DC382D?style-flat-square&logo=Notion&logoColor=white" style="max-width:100%;"></a>
+    
 </b>
 </div>
 </div>
