@@ -6,8 +6,6 @@
 
 
   <hr>
-  ::before
-  ::after
   </hr>
 
 <div align="center" dir="auto">
@@ -27,9 +25,10 @@
 
   
   
-  </b>
+</b>
 </div>
 </div>
+
 <!--
 **ChungEuichan/ChungEuichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
