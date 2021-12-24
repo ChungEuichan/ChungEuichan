@@ -26,7 +26,7 @@
 
   Me
   
-  <a href="https://instagram.com/Jec523_"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/jec523_"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
   
 </b>
 </div>
