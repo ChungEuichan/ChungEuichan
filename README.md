@@ -1,4 +1,5 @@
-### Hi there 👋
+![Euichan](https://user-images.githubusercontent.com/87972079/147312110-52a2d631-9a68-4f2f-a482-572ed1d00628.jpg)
+
 <!--
 **ChungEuichan/ChungEuichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
