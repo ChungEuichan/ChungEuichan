@@ -39,6 +39,23 @@
  <img src="https://camo.githubusercontent.com/c00b87148c63c5a0e9974090f007bb0d5924c2c32023db2222a00518ef74fd82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666c61742d737175617265266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" width="80px" height="26px/" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style-flat-square&logo=Notion&logoColor=white" style="max-width:100%;"></a>
     
 </b>
+  
+<table>
+   <thead>
+     <tr>
+      <th>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://camo.githubusercontent.com/407b6bb7cde6b049aa15a2d83febdb49fed4890e758c4fc0bf4f54a14a5d263a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4f72616e676548417272792673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d627565667926686964655f626f726465723d74727565"
+  alt="ChungEuichan's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=OrangeHArry&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" style="max-width: 100%;" </a>
+</th>
+<th>
+    <a href="https://github.com/ChungEuichan/github-readme-stats">
+    <img align="center" src="https://camo.githubusercontent.com/3817acebfe660a850954e73c1796de7ef0cfe32912c73562b2c9d858357f98ca/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4f72616e67654841727279266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeHArry&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
+      </th>
+    </tr>
+   </thead>
+  </table>
 </div>
 </div>
 
