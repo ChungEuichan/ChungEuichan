@@ -1,9 +1,6 @@
 ![Euichan](https://user-images.githubusercontent.com/87972079/147312110-52a2d631-9a68-4f2f-a482-572ed1d00628.jpg)
 
 <div align="center" dir="auto">
-<br>
-<br>
-
 
   <hr>
   </hr>
@@ -46,7 +43,11 @@
 
 
 ![ChungEuichan's github stats](https://github-readme-stats.vercel.app/api?username=ChungEuichan&show_icons=true)
-![ChungEuichan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChungEuichan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ChungEuichan)
+<br>
+
+![ChungEuichan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChungEuichan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)]
+<br>
+(https://github.com/ChungEuichan)
 
 </div>
 </div>
