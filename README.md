@@ -20,8 +20,8 @@
     
   <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white& max-width= 100%" /></a> &nbsp;
   <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
-  <a><img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/></a> &nbsp;
-  <a><img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/></a> &nbsp;
+  <a><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html&logoColor=white"/></a> &nbsp;
+  <a><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css&logoColor=white"/></a> &nbsp;
   <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp;
   <a><img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> &nbsp;
   <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp;
