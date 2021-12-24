@@ -24,8 +24,9 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
 
-  me
-  <a href="https://instagram.com/yo.o.park"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  Me
+  
+  <a href="https://instagram.com/Jec523_"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
   
 </b>
 </div>
